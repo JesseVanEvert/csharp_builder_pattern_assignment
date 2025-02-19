@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\Practice\\Design patterns\\Builder pattern\\csharp_builder_pattern_assignment\\ProductBuilderPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C596A54-07CD-495A-984D-1BBDB1F07B3E}|ProductBuilderPattern\\ProductBuilderPattern.csproj|c:\\code\\practice\\design patterns\\builder pattern\\csharp_builder_pattern_assignment\\productbuilderpattern\\productbuilderpattern\\ibuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C596A54-07CD-495A-984D-1BBDB1F07B3E}|ProductBuilderPattern\\ProductBuilderPattern.csproj|solutionrelative:productbuilderpattern\\ibuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C596A54-07CD-495A-984D-1BBDB1F07B3E}|ProductBuilderPattern\\ProductBuilderPattern.csproj|c:\\code\\practice\\design patterns\\builder pattern\\csharp_builder_pattern_assignment\\productbuilderpattern\\productbuilderpattern\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C596A54-07CD-495A-984D-1BBDB1F07B3E}|ProductBuilderPattern\\ProductBuilderPattern.csproj|solutionrelative:productbuilderpattern\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C596A54-07CD-495A-984D-1BBDB1F07B3E}|ProductBuilderPattern\\ProductBuilderPattern.csproj|c:\\code\\practice\\design patterns\\builder pattern\\csharp_builder_pattern_assignment\\productbuilderpattern\\productbuilderpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C596A54-07CD-495A-984D-1BBDB1F07B3E}|ProductBuilderPattern\\ProductBuilderPattern.csproj|solutionrelative:productbuilderpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IBuilder.cs",
+              "DocumentMoniker": "C:\\Code\\Practice\\Design patterns\\Builder pattern\\csharp_builder_pattern_assignment\\ProductBuilderPattern\\ProductBuilderPattern\\IBuilder.cs",
+              "RelativeDocumentMoniker": "ProductBuilderPattern\\IBuilder.cs",
+              "ToolTip": "C:\\Code\\Practice\\Design patterns\\Builder pattern\\csharp_builder_pattern_assignment\\ProductBuilderPattern\\ProductBuilderPattern\\IBuilder.cs",
+              "RelativeToolTip": "ProductBuilderPattern\\IBuilder.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:17:52.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Code\\Practice\\Design patterns\\Builder pattern\\csharp_builder_pattern_assignment\\ProductBuilderPattern\\ProductBuilderPattern\\Product.cs",
+              "RelativeDocumentMoniker": "ProductBuilderPattern\\Product.cs",
+              "ToolTip": "C:\\Code\\Practice\\Design patterns\\Builder pattern\\csharp_builder_pattern_assignment\\ProductBuilderPattern\\ProductBuilderPattern\\Product.cs",
+              "RelativeToolTip": "ProductBuilderPattern\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:28:32.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Code\\Practice\\Design patterns\\Builder pattern\\csharp_builder_pattern_assignment\\ProductBuilderPattern\\ProductBuilderPattern\\Program.cs",
+              "RelativeDocumentMoniker": "ProductBuilderPattern\\Program.cs",
+              "ToolTip": "C:\\Code\\Practice\\Design patterns\\Builder pattern\\csharp_builder_pattern_assignment\\ProductBuilderPattern\\ProductBuilderPattern\\Program.cs",
+              "RelativeToolTip": "ProductBuilderPattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:27:51.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
