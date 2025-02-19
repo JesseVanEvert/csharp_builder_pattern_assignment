@@ -1,0 +1,15 @@
+c:\Code\Practice\csharp_builder_pattern_assignment\ProductBuilderAssignment\bin\Debug\net8.0\ProductBuilderAssignment.exe
+c:\Code\Practice\csharp_builder_pattern_assignment\ProductBuilderAssignment\bin\Debug\net8.0\ProductBuilderAssignment.deps.json
+c:\Code\Practice\csharp_builder_pattern_assignment\ProductBuilderAssignment\bin\Debug\net8.0\ProductBuilderAssignment.runtimeconfig.json
+c:\Code\Practice\csharp_builder_pattern_assignment\ProductBuilderAssignment\bin\Debug\net8.0\ProductBuilderAssignment.dll
+c:\Code\Practice\csharp_builder_pattern_assignment\ProductBuilderAssignment\bin\Debug\net8.0\ProductBuilderAssignment.pdb
+c:\Code\Practice\csharp_builder_pattern_assignment\ProductBuilderAssignment\obj\Debug\net8.0\ProductBuilderAssignment.GeneratedMSBuildEditorConfig.editorconfig
+c:\Code\Practice\csharp_builder_pattern_assignment\ProductBuilderAssignment\obj\Debug\net8.0\ProductBuilderAssignment.AssemblyInfoInputs.cache
+c:\Code\Practice\csharp_builder_pattern_assignment\ProductBuilderAssignment\obj\Debug\net8.0\ProductBuilderAssignment.AssemblyInfo.cs
+c:\Code\Practice\csharp_builder_pattern_assignment\ProductBuilderAssignment\obj\Debug\net8.0\ProductBuilderAssignment.csproj.CoreCompileInputs.cache
+c:\Code\Practice\csharp_builder_pattern_assignment\ProductBuilderAssignment\obj\Debug\net8.0\ProductBuilderAssignment.sourcelink.json
+c:\Code\Practice\csharp_builder_pattern_assignment\ProductBuilderAssignment\obj\Debug\net8.0\ProductBuilderAssignment.dll
+c:\Code\Practice\csharp_builder_pattern_assignment\ProductBuilderAssignment\obj\Debug\net8.0\refint\ProductBuilderAssignment.dll
+c:\Code\Practice\csharp_builder_pattern_assignment\ProductBuilderAssignment\obj\Debug\net8.0\ProductBuilderAssignment.pdb
+c:\Code\Practice\csharp_builder_pattern_assignment\ProductBuilderAssignment\obj\Debug\net8.0\ProductBuilderAssignment.genruntimeconfig.cache
+c:\Code\Practice\csharp_builder_pattern_assignment\ProductBuilderAssignment\obj\Debug\net8.0\ref\ProductBuilderAssignment.dll
