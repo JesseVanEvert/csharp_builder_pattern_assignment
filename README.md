@@ -1,3 +1,5 @@
+*Check the wiki for more information*
+
 Assignment: Implementing the Builder Design Pattern in a C# Console Application
 Objective:
 
