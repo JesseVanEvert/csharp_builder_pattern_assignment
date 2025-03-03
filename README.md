@@ -50,13 +50,5 @@ Objective: Enhance the builder with a fluent interface.
     Refactor the builder classes to allow method chaining so that the construction of the product can be done more fluently.
     Modify the builder methods to return the builder instance, allowing calls to be chained together in a single line.
 
-Submission Requirements:
-
-    Code Implementation:
-        Submit your C# files for each part of the assignment. Ensure the code compiles and runs successfully.
-    Documentation:
-        Provide brief documentation explaining how your builder pattern works.
-    Test Cases:
-        Include test cases in the Main() method to demonstrate the functionality of the builder pattern and how it handles different product configurations.
 
 Let me know if you need any clarification or further instructions!
