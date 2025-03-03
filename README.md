@@ -4,7 +4,9 @@ Assignment: Implementing the Builder Design Pattern in a C# Console Application
 Objective:
 
 Design and implement a C# console application using the Builder Design Pattern to construct complex objects step by step. The goal is to build an object with multiple parts or configurations using a builder.
+
 Assignment Breakdown:
+
 Assignment 1: Define the Product Class
 
 Objective: Create the product that will be constructed step by step by the builder.
